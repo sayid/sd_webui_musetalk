@@ -7,10 +7,9 @@ mmpose
 numpy
 tqdm
 more-itertools
-ffmpeg-python>=0.2.0
 pydub
 mmengine
 mmdet
-pip install -U openmim
+pip install openmim
 mim install mmcv==2.1.0
 
