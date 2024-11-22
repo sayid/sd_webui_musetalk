@@ -11,5 +11,4 @@ pydub
 mmengine
 mmdet
 openmim
- mmcv==2.1.0
-
+mmcv==2.1.0
