@@ -10,6 +10,6 @@ more-itertools
 pydub
 mmengine
 mmdet
-pip install openmim
-mim install mmcv==2.1.0
+openmim
+ mmcv==2.1.0
 
